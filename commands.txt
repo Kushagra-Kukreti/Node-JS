@@ -1,0 +1,7 @@
+npm init ---- apna custom kr skte h sb 
+npm init -y == ek default package bna kr dega
+npm i == jitni bhi dependencies h download ho jayegi
+
+-g == global install
+nodemon == auto restart server
+-dev = devdependies ki tarah save hogs mtlb vo development ke time use hoti h 
